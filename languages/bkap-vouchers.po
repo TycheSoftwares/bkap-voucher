@@ -1,0 +1,166 @@
+# Copyright (C) 2020 Tyche Softwares
+# This file is distributed under the same license as the Vouchers for Booking & Appointment Plugin for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vouchers for Booking & Appointment Plugin for WooCommerce 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bkap-vouchers\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-03-28T20:55:32+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: bkap-vouchers\n"
+
+#. Plugin Name of the plugin
+msgid "Vouchers for Booking & Appointment Plugin for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.tychesoftwares.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin allows to send the vouchers to recipient."
+msgstr ""
+
+#. Author of the plugin
+msgid "Tyche Softwares"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://tychesoftwares.com"
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:17
+msgid "Booking Voucher Email"
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:18
+msgid "This email is received when an order status is changed to Processing."
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:20
+msgid "You have received a Voucher"
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:21
+msgid "[{blogname}] Voucher for {product_title}"
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:86
+#: emails/class-bkap-voucher-email.php:89
+msgid "N/A"
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:197
+msgid "Enable/Disable"
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:199
+msgid "Enable this email notification"
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:203
+msgid "Recipient"
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:205
+msgid "Enter recipients (comma separated) for this email. Defaults to %s"
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:209
+msgid "Subject"
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:211
+msgid "This controls the email subject line. Leave blank to use the default subject: <code>%s</code>."
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:216
+msgid "Email Heading"
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:218
+msgid "This controls the main heading contained within the email notification. Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:223
+msgid "Email type"
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:225
+msgid "Choose which format of email to send."
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:229
+msgid "Plain text"
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:230
+msgid "HTML"
+msgstr ""
+
+#: emails/class-bkap-voucher-email.php:231
+msgid "Multipart"
+msgstr ""
+
+#: templates/emails/plain/bkap-voucher-item-email.php:14
+#: templates/emails/bkap-voucher-item-email.php:14
+msgid "Dear %s,"
+msgstr ""
+
+#: templates/emails/plain/bkap-voucher-item-email.php:16
+#: templates/emails/bkap-voucher-item-email.php:16
+msgid "A gift voucher, for use at %s, was purchased for you by %s on %s."
+msgstr ""
+
+#: templates/emails/plain/bkap-voucher-item-email.php:20
+#: templates/emails/bkap-voucher-item-email.php:20
+msgid "Product"
+msgstr ""
+
+#: templates/emails/plain/bkap-voucher-item-email.php:24
+#: templates/emails/bkap-voucher-item-email.php:24
+msgid "Quantity"
+msgstr ""
+
+#: templates/emails/plain/bkap-voucher-item-email.php:30
+#: templates/emails/bkap-voucher-item-email.php:30
+msgid "Please use the following redemption code on the payment page to redeem your gift voucher."
+msgstr ""
+
+#: templates/emails/plain/bkap-voucher-item-email.php:31
+#: templates/emails/bkap-voucher-item-email.php:31
+msgid "Gift Voucher Redemption Code: %s"
+msgstr ""
+
+#: templates/emails/plain/bkap-voucher-item-email.php:32
+#: templates/emails/bkap-voucher-item-email.php:32
+msgid "If you have any problems using your gift voucher, please contact us at customerservice@email.com"
+msgstr ""
+
+#: templates/emails/plain/bkap-voucher-item-email.php:33
+#: templates/emails/bkap-voucher-item-email.php:33
+msgid "Enjoy your gift..!"
+msgstr ""
+
+#: templates/emails/plain/bkap-voucher-item-email.php:35
+#: templates/emails/bkap-voucher-item-email.php:35
+msgid "Sincerely,"
+msgstr ""
+
+#: templates/emails/plain/bkap-voucher-item-email.php:39
+#: templates/emails/bkap-voucher-item-email.php:39
+msgid "Note:The coupon will be expired in 7 days so please avail the offer before the expiry of coupon."
+msgstr ""
+
+#: bkap-vouchers.php:199
+msgid "Name:"
+msgstr ""
+
+#: bkap-vouchers.php:203
+msgid "Email:"
+msgstr ""

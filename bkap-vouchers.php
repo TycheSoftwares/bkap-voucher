@@ -10,7 +10,7 @@
  * Text Domain: bkap-vouchers
  * Requires PHP: 5.6
  * WC requires at least: 3.0.0
- * WC tested up to: 4.0
+ * WC tested up to: 4.2
  *
  * @package BKAP-Voucher
  */
